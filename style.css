@@ -1,0 +1,46 @@
+body {
+  background-color: #C88EA7;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+h1{
+  color: #643843;
+  text-align: center;
+}
+  
+
+h2 {
+  color: #643843;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: large;  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+input {
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+  
+button {
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+  
+ul {
+  list-style-type: none;
+}
+  
+li {
+  margin-bottom: 10px;
+}
+  
+button.delete-btn {
+  color: #99627A;
+  background-color: transparent;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
